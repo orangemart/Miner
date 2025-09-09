@@ -28,7 +28,7 @@ namespace Oxide.Plugins
             public float  IntervalMinutes = 60f;
 
             // Inventory behavior
-            public int    MaxFridgeSlotsToUse = 12;
+            public int    MaxFridgeSlotsToUse = 48;
 
             // Crafting & item presentation
             public bool   CraftEnabled = true;                 // enable /miner.craft
@@ -60,7 +60,7 @@ namespace Oxide.Plugins
         InputCompensationWatts = 5,
         ScrapPerTick = 21,
         IntervalMinutes = 60f,
-        MaxFridgeSlotsToUse = 12,
+        MaxFridgeSlotsToUse = 48,
         CraftEnabled = true,
         CraftPermissionRequired = false,
         CraftPermission = "miner.craft",

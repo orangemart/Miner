@@ -46,7 +46,7 @@ A config file is created at `oxide/config/Miner.json`. Key options and defaults:
   "InputCompensationWatts": 5,
   "ScrapPerTick": 21,
   "IntervalMinutes": 60.0,
-  "MaxFridgeSlotsToUse": 12,
+  "MaxFridgeSlotsToUse": 48,
 
   "CraftEnabled": true,
   "CraftPermissionRequired": false,
